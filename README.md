@@ -3,4 +3,4 @@ This is the pintertesting sample app
 
 [*One month Rails*](http://onemonthrails.com)
 
-by [Catalin Muraru]
+by [Catalin Muraru - testing file]
